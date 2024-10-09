@@ -1,0 +1,110 @@
+h1{
+    background-color: rgba(148, 114, 69, 0.774);
+    color: rgb(19, 19, 19);
+    margin: auto;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    padding-right: 30px;
+    text-align: center;
+    position: fixed;
+}
+
+.cinamonroll_done_pic{
+    width: 50%;
+    border: 5px dotted rgb(131, 106, 92);
+    border-radius: 50px;
+}
+
+#Ingredients{
+    width: 80%;
+    border: 5px  rgb(131, 106, 92);
+}
+
+#photo3{
+    width: 55%;
+    border: 5px dotted rgb(131, 106, 92);
+    border-radius: 50px;
+}
+
+#photo2{
+    width: 50%;
+    border: 5px dotted rgb(131, 106, 92);
+    border-radius: 50px;
+}
+
+#photo1{
+    width: 50%;
+    border: 5px dotted rgb(131, 106, 92);
+    border-radius: 50px;
+}
+
+
+#stepimg{
+    width: 20%;
+    text-align: center;
+}
+
+#resultimg{
+    width: 50%;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+nav {
+    float: left;
+    width: 28%;
+    height: 800px; 
+
+    text-align: center;
+  }
+
+article{
+    float: left;
+    width: 72%;
+    height: 700px; 
+    padding-right: 20;
+}
+
+.steptext{
+    margin: auto;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    padding-right: 200px;
+    text-align: left;
+}
+
+.ingredianttext{
+    margin: auto;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 50px; 
+    padding-right: 200px;
+    text-align: left;
+}
+
+
+  .photo{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    background-color: rgb(218, 176, 141);
+    text-align: center;
+  }
+
+
+  ul{
+    font-size: 18px;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+ .photomiddle{
+    text-align: center;
+ }
